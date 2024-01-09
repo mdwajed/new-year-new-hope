@@ -5,6 +5,8 @@ body {
 
 .banner {
     position: relative;
+    width: 1300px;
+    height: 600px;
 }
 
 .banner-image {
@@ -18,8 +20,13 @@ body {
 
 .banner-text {
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 40%;
+    color: white;
+    text-align: center;
+}
+
+.banner-text h1 {
     color: white;
 }
 
@@ -56,6 +63,7 @@ body {
     font-weight: 700;
 }
 
+
 .party {
     position: relative;
 }
@@ -86,10 +94,139 @@ body {
 }
 
 .dolor {
-    color:wheat;
+    color: wheat;
     font-size: 18px;
     font-weight: 400;
 }
-.btn-primary{
+
+.btn-primary {
     border: none;
+}
+
+.gift {
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.portfolio {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+
+}
+
+.sit {
+    color: #07021199;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.text-two {
+    margin-left: 90px;
+    margin-top: 80px;
+}
+
+.item-image {
+    margin-left: 80px;
+
+}
+
+.Subscribe {
+    margin-top: 80px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    width: 1320px;
+    height: 616px;
+    margin-left: 80px;
+    text-align: center;
+}
+
+h1 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+p {
+    color: #07021199;
+    font-size: 20px;
+    font-weight: 400;
+}
+.top{
+    border: none;
+    width: 210px;
+    height: 50px;
+    text-align: center;
+}
+.sub {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    width: 210px;
+    height: 50px;
+    text-align: center;
+
+
+}
+
+.group-image {
+    margin-top: 50px;
+}
+
+.email {
+    display: flex;
+}
+
+.user {
+    margin-left: 300px;
+}
+
+.last {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+footer {
+    width: 1500px;
+    height: 500px;
+    background-color: blue;
+}
+
+.address {
+    display: flex;
+    margin-left: 80px;
+    margin-top: 80px;
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+}
+
+.big {
+    color: white;
+    margin-top: 80px;
+}
+
+.call {
+    margin-left: 700px;
+    color: white;
+    margin-top: 80px;
+}
+
+.footer-imag {
+    margin-left: 600px;
+    margin-top: 80px;
+}
+
+.finish {
+    font-size: 24px;
+    font-weight: 500px;
+    display: flex;
+    margin-left: 80px;
+    margin-top: 80px;
+}
+
+.dell {
+    margin-left: 1000px;
+
 }
