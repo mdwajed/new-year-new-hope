@@ -1,0 +1,95 @@
+/* style of banner section */
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner {
+    position: relative;
+}
+
+.banner-image {
+    width: 1320px;
+    height: 600px;
+    margin-left: 100px;
+    border-radius: 16px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.banner-text {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    color: white;
+}
+
+.offer {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.offer-percentage {
+    color: #FF0000;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.second-image {
+    margin: 15px 300px 0px 300px;
+    width: 600px;
+    height: 350px;
+    flex-shrink: 0;
+}
+
+.offer-holiday {
+    color: #FF0000;
+    text-align: center;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.offer-categories {
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.party {
+    position: relative;
+}
+
+.image-three {
+    width: 1320;
+    height: 600px;
+    margin-left: 90px;
+    margin-top: 50px;
+    position: relative;
+}
+
+.midnight-party {
+    position: absolute;
+    bottom: 40%;
+    margin-left: 150px;
+}
+
+.image-fourth {
+    margin-left: 800px;
+    margin-top: auto;
+    position: absolute;
+}
+
+.welcome {
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+.dolor {
+    color:wheat;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-primary{
+    border: none;
+}
